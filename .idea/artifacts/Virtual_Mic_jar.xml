@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Virtual Mic:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Virtual_Mic_jar</output-path>
+    <root id="archive" name="Virtual Mic.jar">
+      <element id="module-output" name="Virtual Mic" />
+    </root>
+  </artifact>
+</component>
